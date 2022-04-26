@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Thanushan-Pirapakaran/static/css/main.c70d99e4.css",
+    "main.js": "/Thanushan-Pirapakaran/static/js/main.30d7505f.js",
+    "index.html": "/Thanushan-Pirapakaran/index.html",
+    "main.c70d99e4.css.map": "/Thanushan-Pirapakaran/static/css/main.c70d99e4.css.map",
+    "main.30d7505f.js.map": "/Thanushan-Pirapakaran/static/js/main.30d7505f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c70d99e4.css",
+    "static/js/main.30d7505f.js"
+  ]
+}
